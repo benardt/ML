@@ -1,10 +1,12 @@
-# Introduction
+# Segmentation _Machine Learning_ algorithm
+
+## Introduction
 
 _Machine learning_ algorithm to locate o-ring component in engineering drawing.
 
 Segmentation algorithm with CNN (Convolutional neural network)
 
 
-# Problem of dataset
+## Problem of dataset
 
 Dataset is created from scratch.
