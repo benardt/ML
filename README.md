@@ -7,4 +7,4 @@ Segmentation algorithm with CNN (Convolutional neural network)
 
 # Problem of dataset
 
-bla bla
+Dataset is created from scratch.
