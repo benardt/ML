@@ -10,3 +10,9 @@ Segmentation algorithm with CNN (Convolutional neural network)
 ## 2. Problem of dataset
 
 Dataset is created from scratch.
+
+## 3. Files
+
+* _mylib.ipynb_ contains all common functions used in oring_projet.ipynb
+* _oring_projet.ipynb_ is the file with main function.
+* _oring_optim.ipynb_  is the file to tune hyperparameters
