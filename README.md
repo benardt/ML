@@ -4,7 +4,9 @@
 
 _Machine learning_ algorithm to locate o-ring component in engineering drawing.
 
-Segmentation algorithm with CNN (Convolutional neural network)
+Segmentation algorithm with CNN (Convolutional neural network).
+
+Project runs on _Google Colab_.
 
 
 ## 2. Problem of dataset
