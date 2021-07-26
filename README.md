@@ -1,8 +1,8 @@
-# Segmentation _Machine Learning_ algorithm
+# Segmentation _Machine Learning_ algorithm with small dataset
 
 ## 1. Introduction
 
-_Machine learning_ algorithm to locate o-ring component in engineering drawing.
+_Machine learning_ algorithm to locate o-ring component in engineering drawing using small dataset. O-ring component are modelised to increase dataset. Aim of this study is to evaluate the success of 3 different models and to assess the score fro each.
 
 Segmentation algorithm with CNN (Convolutional neural network).
 
