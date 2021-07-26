@@ -11,7 +11,7 @@ Project runs on _Google Colab_.
 
 ## 2. Problem of dataset
 
-Dataset is created from scratch.
+Dataset is created from parts of drawing with size 500x500px by adding modelling o-ring. With this, we can switch from 563 training data to more than 7,500.
 
 ## 3. Files
 
