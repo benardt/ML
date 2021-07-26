@@ -16,7 +16,7 @@ Dataset is created from parts of drawing with size 500x500px by adding modelling
 
 ## 3. Results
 
-Example of input and output of model.
+Example of input and output of model. Algorithm find and locate correctly 2 o-rings.
 
 ![result](./images/Image1.png)
 
